@@ -1,6 +1,5 @@
 package yb.github.moorish.model;
 
-import java.util.HashSet;
 import java.util.Hashtable;
 
 import javax.persistence.Entity;
